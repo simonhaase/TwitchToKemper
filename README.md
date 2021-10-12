@@ -11,4 +11,5 @@ OAUTH=oauth:YOUROAUTHTOKENHERE`
 
 - define your Rewards (reward == YOURTWITCHREWARDNAME)
 - define your MidiMessages KemperMIDI-Reference: http://thelookmusic.co.uk/kemper/kemper%20midi%20data.pdf
+- define your MIDI-Output-Device (Connect MIDI Out of your Out Device to MIDI In of your Kemper Profiler)
 - run `node index.js`
